@@ -5,7 +5,7 @@
 - 🎓 **B.Tech CSE Graduate (2024)** | Java Developer  
 - 💻 **Project Associate @ CDAC Chennai**  
 - 💻 **Intern @ Softvyom Consulting Services Pvt. Ltd.**  
-- 🔍 Exploring **DSA, Web Technologies (React, Node.js), Backend Development, Python & Django**  
+- 🔍 Exploring **DSA, Web Technologies (MERN Stack, React, Node.js), Backend Development, Python & Django**  
 - ♟️ Chess enthusiast | 🎸 Guitarist | 📚 Avid Reader  
 
 ## 💡 What I’m Up To  
@@ -27,5 +27,4 @@
 ---  
 
 ### 🌟 "Code. Debug. Learn. Repeat!" 🌟
-
 
