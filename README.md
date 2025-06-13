@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Aniruddha (Rudra) Trivedi!  
 ✨ A passionate developer, problem solver, and tech enthusiast. ✨  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge)
+
 
 ## 🚀 About Me  
 - 🎓 **B.Tech CSE Graduate (2024)** 
