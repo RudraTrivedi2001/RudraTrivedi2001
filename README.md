@@ -2,7 +2,7 @@
 ✨ A passionate developer, problem solver, and tech enthusiast. ✨  
 
 ## 🚀 About Me  
-- 🎓 **B.Tech CSE Graduate (2024)** | Java Developer  
+- 🎓 **B.Tech CSE Graduate (2024)** 
 - 💻 **Project Associate @ CDAC Chennai**  
 - 💻 **Intern @ Softvyom Consulting Services Pvt. Ltd.**  
 - 🔍 Exploring **DSA, Web Technologies (MERN Stack, React, Node.js), Backend Development, Python & Django**  
